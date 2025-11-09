@@ -43,7 +43,7 @@ Python, NLTK, LDA, BeautifulSoup, Google Trends API, Power BI
 ---
 
 ## Deliverables
-- [Presentation Slides](./Final%20Group%206%2C%20Section%201.pptx)
+- [Presentation Slides](./Threads_of_truth.pptx)
 - Topic Modeling Results
 - Sentiment Trend Visualizations
 - Google Trends Correlation Graphs
