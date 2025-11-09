@@ -1,7 +1,7 @@
 # Threads-of-Truth-Machine-Learning-Insights-into-Sustainable-Fashion-Narratives
 Data-driven ML analysis of Vogue India’s fashion narratives — Topic Modeling | Sentiment Analysis | Sustainability Trends
 
-![Threads of Truth Banner](./banner.jpg)
+![Threads of Truth Banner](./banner.png)
 
 **Team:** Janani Vakkanti, Mrunal Y Dalvi, Sanchal Nachappa, Shriya Tarun, Tejal Meda, Suryah Vadivel  
 **University:** The University of Texas at Austin – MS Business Analytics  
