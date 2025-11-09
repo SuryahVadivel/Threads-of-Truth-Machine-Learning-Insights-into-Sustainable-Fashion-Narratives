@@ -42,8 +42,10 @@ Python, NLTK, LDA, BeautifulSoup, Google Trends API, Power BI
 
 ---
 
-## Deliverables
-- [Presentation Slides](./Threads_of_truth.pptx)
+## Deliverables [Need to update]
+- ## Presentation
+You can view or download the full presentation here:  
+[Download Threads of Truth Presentation (PPTX)](https://github.com/SuryahVadivel/Threads-of-Truth-Machine-Learning-Insights-into-Sustainable-Fashion-Narratives/raw/main/Threads_of_truth.pptx)
 - Topic Modeling Results
 - Sentiment Trend Visualizations
 - Google Trends Correlation Graphs
